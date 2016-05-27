@@ -1,7 +1,6 @@
-# 1042 NCCU WSM Final Project
+# 1042 NCCU WSM - Benchmark Usage:
 **Competition Website**: [NCCU WSM - User Mood Prediction](https://inclass.kaggle.com/c/nccu-wsm-user-mood-prediction)
 
-# 1042 Benchmark Usage:
 **Default Environment**:
 - python version: 2.7 (you can modify the code to fit the python 3.x)
 - scikit-learn: http://scikit-learn.org/stable/install.html

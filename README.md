@@ -1,4 +1,4 @@
-# 1042 NCCU WSM - Benchmark Usage:
+# 1042 NCCU WSM - Benchmark
 
 This is the benchmark of [**VSM TF + Bernoulli Naive Bayes**]
 
